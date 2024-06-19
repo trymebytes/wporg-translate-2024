@@ -1,4 +1,4 @@
-# wporg-events-2023
+# wporg-translate-2024
 
 ### Local Env Setup
 
