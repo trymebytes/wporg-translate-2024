@@ -2,7 +2,7 @@
 
 root=$( dirname $( wp config path ) )
 
-wp theme activate wporg-events-2023
+wp theme activate wporg-translate-2024
 
 wp rewrite structure '/%year%/%monthnum%/%postname%/'
 wp rewrite flush --hard

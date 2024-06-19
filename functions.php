@@ -31,7 +31,7 @@ function theme_support() {
  */
 function enqueue_assets() {
 	wp_enqueue_style(
-		'wporg-events-2023-style',
+		'wporg-translate-2024-style',
 		get_stylesheet_uri(),
 		array( 'wporg-parent-2021-style', 'wporg-global-fonts' ),
 		filemtime( __DIR__ . '/style.css' )
