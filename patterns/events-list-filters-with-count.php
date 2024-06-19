@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Events List Filters With Event Count
- * Slug: wporg-events-2023/event-list-filters-with-count
+ * Slug: wporg-translate-2024/event-list-filters-with-count
  * Inserter: no
  */
 

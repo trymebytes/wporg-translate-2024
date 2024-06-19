@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Organize Events
- * Slug: wporg-events-2023/page-organize-events
+ * Slug: wporg-translate-2024/page-organize-events
  * Inserter: no
  */
 

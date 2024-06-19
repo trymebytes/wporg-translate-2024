@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Front Page
- * Slug: wporg-events-2023/footer-community-callout
+ * Slug: wporg-translate-2024/footer-community-callout
  * Inserter: no
  */
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Upcoming: See Past Events link
- * Slug: wporg-events-2023/page-upcoming-see-past-events
+ * Slug: wporg-translate-2024/page-upcoming-see-past-events
  * Inserter: no
  */
 

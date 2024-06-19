@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Events
- * Slug: wporg-events-2023/front-events
+ * Slug: wporg-translate-2024/front-events
  * Inserter: no
  */
 
@@ -13,7 +13,7 @@
 <h2 class="wp-block-heading has-inter-font-family has-medium-font-size" style="font-style:normal;font-weight:700">Upcoming events</h2>
 <!-- /wp:heading -->
 
-<!-- wp:pattern {"slug":"wporg-events-2023/event-list-filters"} /-->
+<!-- wp:pattern {"slug":"wporg-translate-2024/event-list-filters"} /-->
 
 <!-- wp:wporg/event-list {"limit": "10"} /-->
 

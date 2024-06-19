@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Front Page Contributors
- * Slug: wporg-events-2023/front-contributors
+ * Slug: wporg-translate-2024/front-contributors
  * Inserter: no
  */
 
@@ -36,7 +36,7 @@
 
 		<!-- wp:column {"verticalAlignment":"bottom","width":"50%","className":"wporg-events__contributors__image"} -->
 		<div class="wp-block-column is-vertically-aligned-bottom wporg-events__contributors__image" style="flex-basis:50%">
-			<!-- wp:pattern {"slug":"wporg-events-2023/front-contributors-gallery"} /-->
+			<!-- wp:pattern {"slug":"wporg-translate-2024/front-contributors-gallery"} /-->
 		</div>	<!-- /wp:column -->
 	</div>	<!-- /wp:columns -->
 </div>	<!-- /wp:group -->

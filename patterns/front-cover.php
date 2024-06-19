@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Front Page Cover
- * Slug: wporg-events-2023/front-cover
+ * Slug: wporg-translate-2024/front-cover
  * Inserter: no
  */
 

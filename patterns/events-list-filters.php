@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Events List Filters
- * Slug: wporg-events-2023/event-list-filters
+ * Slug: wporg-translate-2024/event-list-filters
  * Inserter: no
  */
 
