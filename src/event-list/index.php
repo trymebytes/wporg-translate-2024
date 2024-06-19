@@ -6,9 +6,9 @@
  * @package wporg
  */
 
-namespace WordPressdotorg\Theme\Events_2023\WordPress_Event_List;
+namespace WordPressdotorg\Theme\Translate_2024\WordPress_Event_List;
 
-use WordPressdotorg\Events_2023;
+use WordPressdotorg\Translate_2024;
 use WP_Block;
 use WordPressdotorg\MU_Plugins\Google_Map;
 
@@ -41,7 +41,7 @@ function init() {
  * @return string Returns the block markup.
  */
 function render( $attributes, $content, $block ) {
-	$facets = Events_2023\get_query_var_facets();
+	$facets = Translate_2024\get_query_var_facets();
 	$events = Google_Map\get_events( $attributes['events'], 0, 0, $facets );
 
 	// Get all the filters that are currently applied.

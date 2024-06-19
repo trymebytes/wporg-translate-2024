@@ -1,6 +1,6 @@
 <?php
 
-namespace WordPressdotorg\Events_2023;
+namespace WordPressdotorg\Translate_2024;
 use WP, WP_Query, WP_Post, WP_Block;
 use WordPressdotorg\MU_Plugins\Google_Map;
 

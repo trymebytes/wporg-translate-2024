@@ -1,6 +1,6 @@
 <?php
 
-namespace WordPressdotorg\Events_2023;
+namespace WordPressdotorg\Translate_2024;
 use WP;
 use WordCamp\Sunrise;
 use WordPressdotorg\MU_Plugins\Google_Map;

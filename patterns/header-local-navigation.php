@@ -8,7 +8,7 @@
  * This nav bar also has the site title, so it should be used on interior pages.
  */
 
-namespace WordPressdotorg\Events_2023;
+namespace WordPressdotorg\Translate_2024;
 
 defined( 'WPINC' ) || die();
 
